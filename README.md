@@ -1,5 +1,3 @@
-Certainly! Here's the README with some emojis added to the titles:
-
 ---
 
 # Simple Number Guessing Game 🔢
