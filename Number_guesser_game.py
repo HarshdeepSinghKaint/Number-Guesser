@@ -8,7 +8,7 @@ print("Welcome to the Number guessing game \nHave Fun :)")
 print("Enter any number  and Test your luck")
 
 #Taking the input from user
-user_number=input("Enter your number : ")
+user_number=input("Enter your range number : ")
 
 #checking whether the user have entered a digit in the input 
 if user_number.isdigit():
